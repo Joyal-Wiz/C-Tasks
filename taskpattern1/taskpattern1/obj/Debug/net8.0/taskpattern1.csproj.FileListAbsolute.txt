@@ -1,0 +1,14 @@
+C:\Users\ALAN\source\repos\taskpattern1\taskpattern1\bin\Debug\net8.0\taskpattern1.exe
+C:\Users\ALAN\source\repos\taskpattern1\taskpattern1\bin\Debug\net8.0\taskpattern1.deps.json
+C:\Users\ALAN\source\repos\taskpattern1\taskpattern1\bin\Debug\net8.0\taskpattern1.runtimeconfig.json
+C:\Users\ALAN\source\repos\taskpattern1\taskpattern1\bin\Debug\net8.0\taskpattern1.dll
+C:\Users\ALAN\source\repos\taskpattern1\taskpattern1\bin\Debug\net8.0\taskpattern1.pdb
+C:\Users\ALAN\source\repos\taskpattern1\taskpattern1\obj\Debug\net8.0\taskpattern1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALAN\source\repos\taskpattern1\taskpattern1\obj\Debug\net8.0\taskpattern1.AssemblyInfoInputs.cache
+C:\Users\ALAN\source\repos\taskpattern1\taskpattern1\obj\Debug\net8.0\taskpattern1.AssemblyInfo.cs
+C:\Users\ALAN\source\repos\taskpattern1\taskpattern1\obj\Debug\net8.0\taskpattern1.csproj.CoreCompileInputs.cache
+C:\Users\ALAN\source\repos\taskpattern1\taskpattern1\obj\Debug\net8.0\taskpattern1.dll
+C:\Users\ALAN\source\repos\taskpattern1\taskpattern1\obj\Debug\net8.0\refint\taskpattern1.dll
+C:\Users\ALAN\source\repos\taskpattern1\taskpattern1\obj\Debug\net8.0\taskpattern1.pdb
+C:\Users\ALAN\source\repos\taskpattern1\taskpattern1\obj\Debug\net8.0\taskpattern1.genruntimeconfig.cache
+C:\Users\ALAN\source\repos\taskpattern1\taskpattern1\obj\Debug\net8.0\ref\taskpattern1.dll
