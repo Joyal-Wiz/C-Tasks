@@ -1,0 +1,14 @@
+C:\Users\ALAN\source\repos\task day 6\task day 6\bin\Debug\net8.0\task day 6.exe
+C:\Users\ALAN\source\repos\task day 6\task day 6\bin\Debug\net8.0\task day 6.deps.json
+C:\Users\ALAN\source\repos\task day 6\task day 6\bin\Debug\net8.0\task day 6.runtimeconfig.json
+C:\Users\ALAN\source\repos\task day 6\task day 6\bin\Debug\net8.0\task day 6.dll
+C:\Users\ALAN\source\repos\task day 6\task day 6\bin\Debug\net8.0\task day 6.pdb
+C:\Users\ALAN\source\repos\task day 6\task day 6\obj\Debug\net8.0\task day 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALAN\source\repos\task day 6\task day 6\obj\Debug\net8.0\task day 6.AssemblyInfoInputs.cache
+C:\Users\ALAN\source\repos\task day 6\task day 6\obj\Debug\net8.0\task day 6.AssemblyInfo.cs
+C:\Users\ALAN\source\repos\task day 6\task day 6\obj\Debug\net8.0\task day 6.csproj.CoreCompileInputs.cache
+C:\Users\ALAN\source\repos\task day 6\task day 6\obj\Debug\net8.0\task day 6.dll
+C:\Users\ALAN\source\repos\task day 6\task day 6\obj\Debug\net8.0\refint\task day 6.dll
+C:\Users\ALAN\source\repos\task day 6\task day 6\obj\Debug\net8.0\task day 6.pdb
+C:\Users\ALAN\source\repos\task day 6\task day 6\obj\Debug\net8.0\task day 6.genruntimeconfig.cache
+C:\Users\ALAN\source\repos\task day 6\task day 6\obj\Debug\net8.0\ref\task day 6.dll
