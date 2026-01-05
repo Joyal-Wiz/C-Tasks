@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ALAN\\source\\repos\\ConsoleApp1\\TASKS\\Employee Data\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E3B585-305C-38C3-C10D-7BDEE0199BC2}|Employee Data\\Employee Data.csproj|c:\\users\\alan\\source\\repos\\consoleapp1\\tasks\\employee data\\employee data\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E3B585-305C-38C3-C10D-7BDEE0199BC2}|Employee Data\\Employee Data.csproj|solutionrelative:employee data\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E3B585-305C-38C3-C10D-7BDEE0199BC2}|Employee Data\\Employee Data.csproj|c:\\users\\alan\\source\\repos\\consoleapp1\\tasks\\employee data\\employee data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E3B585-305C-38C3-C10D-7BDEE0199BC2}|Employee Data\\Employee Data.csproj|solutionrelative:employee data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E3B585-305C-38C3-C10D-7BDEE0199BC2}|Employee Data\\Employee Data.csproj|c:\\users\\alan\\source\\repos\\consoleapp1\\tasks\\employee data\\employee data\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E3B585-305C-38C3-C10D-7BDEE0199BC2}|Employee Data\\Employee Data.csproj|solutionrelative:employee data\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E3B585-305C-38C3-C10D-7BDEE0199BC2}|Employee Data\\Employee Data.csproj|c:\\users\\alan\\source\\repos\\consoleapp1\\tasks\\employee data\\employee data\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E3B585-305C-38C3-C10D-7BDEE0199BC2}|Employee Data\\Employee Data.csproj|solutionrelative:employee data\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E3B585-305C-38C3-C10D-7BDEE0199BC2}|Employee Data\\Employee Data.csproj|c:\\users\\alan\\source\\repos\\consoleapp1\\tasks\\employee data\\employee data\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E3B585-305C-38C3-C10D-7BDEE0199BC2}|Employee Data\\Employee Data.csproj|solutionrelative:employee data\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\ALAN\\source\\repos\\ConsoleApp1\\TASKS\\Employee Data\\Employee Data\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Employee Data\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\ALAN\\source\\repos\\ConsoleApp1\\TASKS\\Employee Data\\Employee Data\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Employee Data\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwCQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T11:35:19.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ALAN\\source\\repos\\ConsoleApp1\\TASKS\\Employee Data\\Employee Data\\Program.cs",
+              "RelativeDocumentMoniker": "Employee Data\\Program.cs",
+              "ToolTip": "C:\\Users\\ALAN\\source\\repos\\ConsoleApp1\\TASKS\\Employee Data\\Employee Data\\Program.cs",
+              "RelativeToolTip": "Employee Data\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T11:34:59.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\ALAN\\source\\repos\\ConsoleApp1\\TASKS\\Employee Data\\Employee Data\\services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Employee Data\\services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\ALAN\\source\\repos\\ConsoleApp1\\TASKS\\Employee Data\\Employee Data\\services\\EmployeeService.cs",
+              "RelativeToolTip": "Employee Data\\services\\EmployeeService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T11:34:35.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\ALAN\\source\\repos\\ConsoleApp1\\TASKS\\Employee Data\\Employee Data\\services\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Employee Data\\services\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\ALAN\\source\\repos\\ConsoleApp1\\TASKS\\Employee Data\\Employee Data\\services\\IEmployeeService.cs",
+              "RelativeToolTip": "Employee Data\\services\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T11:33:44.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ALAN\\source\\repos\\ConsoleApp1\\TASKS\\Employee Data\\Employee Data\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee Data\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\ALAN\\source\\repos\\ConsoleApp1\\TASKS\\Employee Data\\Employee Data\\Models\\Employee.cs",
+              "RelativeToolTip": "Employee Data\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T11:33:00.508Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
