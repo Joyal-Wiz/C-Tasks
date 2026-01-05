@@ -1,0 +1,36 @@
+C:\Users\ALAN\source\repos\day4 task\day4 task\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ALAN\source\repos\day4 task\day4 task\bin\Debug\net8.0\appsettings.json
+C:\Users\ALAN\source\repos\day4 task\day4 task\bin\Debug\net8.0\day4 task.staticwebassets.endpoints.json
+C:\Users\ALAN\source\repos\day4 task\day4 task\bin\Debug\net8.0\day4 task.exe
+C:\Users\ALAN\source\repos\day4 task\day4 task\bin\Debug\net8.0\day4 task.deps.json
+C:\Users\ALAN\source\repos\day4 task\day4 task\bin\Debug\net8.0\day4 task.runtimeconfig.json
+C:\Users\ALAN\source\repos\day4 task\day4 task\bin\Debug\net8.0\day4 task.dll
+C:\Users\ALAN\source\repos\day4 task\day4 task\bin\Debug\net8.0\day4 task.pdb
+C:\Users\ALAN\source\repos\day4 task\day4 task\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ALAN\source\repos\day4 task\day4 task\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ALAN\source\repos\day4 task\day4 task\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ALAN\source\repos\day4 task\day4 task\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ALAN\source\repos\day4 task\day4 task\obj\Debug\net8.0\day4 task.csproj.AssemblyReference.cache
+C:\Users\ALAN\source\repos\day4 task\day4 task\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\ALAN\source\repos\day4 task\day4 task\obj\Debug\net8.0\day4 task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALAN\source\repos\day4 task\day4 task\obj\Debug\net8.0\day4 task.AssemblyInfoInputs.cache
+C:\Users\ALAN\source\repos\day4 task\day4 task\obj\Debug\net8.0\day4 task.AssemblyInfo.cs
+C:\Users\ALAN\source\repos\day4 task\day4 task\obj\Debug\net8.0\day4 task.csproj.CoreCompileInputs.cache
+C:\Users\ALAN\source\repos\day4 task\day4 task\obj\Debug\net8.0\day4 task.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ALAN\source\repos\day4 task\day4 task\obj\Debug\net8.0\day4 task.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ALAN\source\repos\day4 task\day4 task\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\ALAN\source\repos\day4 task\day4 task\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\ALAN\source\repos\day4 task\day4 task\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\ALAN\source\repos\day4 task\day4 task\obj\Debug\net8.0\scopedcss\bundle\day4 task.styles.css
+C:\Users\ALAN\source\repos\day4 task\day4 task\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ALAN\source\repos\day4 task\day4 task\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\ALAN\source\repos\day4 task\day4 task\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ALAN\source\repos\day4 task\day4 task\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ALAN\source\repos\day4 task\day4 task\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\ALAN\source\repos\day4 task\day4 task\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ALAN\source\repos\day4 task\day4 task\obj\Debug\net8.0\day4 task.csproj.Up2Date
+C:\Users\ALAN\source\repos\day4 task\day4 task\obj\Debug\net8.0\day4 task.dll
+C:\Users\ALAN\source\repos\day4 task\day4 task\obj\Debug\net8.0\refint\day4 task.dll
+C:\Users\ALAN\source\repos\day4 task\day4 task\obj\Debug\net8.0\day4 task.pdb
+C:\Users\ALAN\source\repos\day4 task\day4 task\obj\Debug\net8.0\day4 task.genruntimeconfig.cache
+C:\Users\ALAN\source\repos\day4 task\day4 task\obj\Debug\net8.0\ref\day4 task.dll
