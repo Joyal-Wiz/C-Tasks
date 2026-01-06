@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ALAN\\source\\repos\\TaskManagementApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFDF02E-CF18-4459-D717-8AF5E39FEEB0}|TaskManagementApi\\TaskManagementApi.csproj|c:\\users\\alan\\source\\repos\\taskmanagementapi\\taskmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFDF02E-CF18-4459-D717-8AF5E39FEEB0}|TaskManagementApi\\TaskManagementApi.csproj|solutionrelative:taskmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFDF02E-CF18-4459-D717-8AF5E39FEEB0}|TaskManagementApi\\TaskManagementApi.csproj|c:\\users\\alan\\source\\repos\\taskmanagementapi\\taskmanagementapi\\controller\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFDF02E-CF18-4459-D717-8AF5E39FEEB0}|TaskManagementApi\\TaskManagementApi.csproj|solutionrelative:taskmanagementapi\\controller\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFDF02E-CF18-4459-D717-8AF5E39FEEB0}|TaskManagementApi\\TaskManagementApi.csproj|c:\\users\\alan\\source\\repos\\taskmanagementapi\\taskmanagementapi\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFDF02E-CF18-4459-D717-8AF5E39FEEB0}|TaskManagementApi\\TaskManagementApi.csproj|solutionrelative:taskmanagementapi\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFDF02E-CF18-4459-D717-8AF5E39FEEB0}|TaskManagementApi\\TaskManagementApi.csproj|c:\\users\\alan\\source\\repos\\taskmanagementapi\\taskmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8AFDF02E-CF18-4459-D717-8AF5E39FEEB0}|TaskManagementApi\\TaskManagementApi.csproj|solutionrelative:taskmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFDF02E-CF18-4459-D717-8AF5E39FEEB0}|TaskManagementApi\\TaskManagementApi.csproj|c:\\users\\alan\\source\\repos\\taskmanagementapi\\taskmanagementapi\\data\\fakedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFDF02E-CF18-4459-D717-8AF5E39FEEB0}|TaskManagementApi\\TaskManagementApi.csproj|solutionrelative:taskmanagementapi\\data\\fakedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFDF02E-CF18-4459-D717-8AF5E39FEEB0}|TaskManagementApi\\TaskManagementApi.csproj|c:\\users\\alan\\source\\repos\\taskmanagementapi\\taskmanagementapi\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFDF02E-CF18-4459-D717-8AF5E39FEEB0}|TaskManagementApi\\TaskManagementApi.csproj|solutionrelative:taskmanagementapi\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFDF02E-CF18-4459-D717-8AF5E39FEEB0}|TaskManagementApi\\TaskManagementApi.csproj|c:\\users\\alan\\source\\repos\\taskmanagementapi\\taskmanagementapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFDF02E-CF18-4459-D717-8AF5E39FEEB0}|TaskManagementApi\\TaskManagementApi.csproj|solutionrelative:taskmanagementapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\ALAN\\source\\repos\\TaskManagementApi\\TaskManagementApi\\Controller\\TasksController.cs",
+              "RelativeDocumentMoniker": "TaskManagementApi\\Controller\\TasksController.cs",
+              "ToolTip": "C:\\Users\\ALAN\\source\\repos\\TaskManagementApi\\TaskManagementApi\\Controller\\TasksController.cs",
+              "RelativeToolTip": "TaskManagementApi\\Controller\\TasksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T06:52:23.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ALAN\\source\\repos\\TaskManagementApi\\TaskManagementApi\\Controller\\AuthController.cs",
+              "RelativeDocumentMoniker": "TaskManagementApi\\Controller\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ALAN\\source\\repos\\TaskManagementApi\\TaskManagementApi\\Controller\\AuthController.cs",
+              "RelativeToolTip": "TaskManagementApi\\Controller\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T06:44:55.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ALAN\\source\\repos\\TaskManagementApi\\TaskManagementApi\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagementApi\\Program.cs",
+              "ToolTip": "C:\\Users\\ALAN\\source\\repos\\TaskManagementApi\\TaskManagementApi\\Program.cs",
+              "RelativeToolTip": "TaskManagementApi\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T06:39:20.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ALAN\\source\\repos\\TaskManagementApi\\TaskManagementApi\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskManagementApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\ALAN\\source\\repos\\TaskManagementApi\\TaskManagementApi\\appsettings.json",
+              "RelativeToolTip": "TaskManagementApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-06T06:37:44.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FakeDb.cs",
+              "DocumentMoniker": "C:\\Users\\ALAN\\source\\repos\\TaskManagementApi\\TaskManagementApi\\Data\\FakeDb.cs",
+              "RelativeDocumentMoniker": "TaskManagementApi\\Data\\FakeDb.cs",
+              "ToolTip": "C:\\Users\\ALAN\\source\\repos\\TaskManagementApi\\TaskManagementApi\\Data\\FakeDb.cs",
+              "RelativeToolTip": "TaskManagementApi\\Data\\FakeDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T06:37:02.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\ALAN\\source\\repos\\TaskManagementApi\\TaskManagementApi\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "TaskManagementApi\\Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\ALAN\\source\\repos\\TaskManagementApi\\TaskManagementApi\\Models\\TaskItem.cs",
+              "RelativeToolTip": "TaskManagementApi\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T06:35:58.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ALAN\\source\\repos\\TaskManagementApi\\TaskManagementApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TaskManagementApi\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ALAN\\source\\repos\\TaskManagementApi\\TaskManagementApi\\Models\\User.cs",
+              "RelativeToolTip": "TaskManagementApi\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T06:35:18.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
